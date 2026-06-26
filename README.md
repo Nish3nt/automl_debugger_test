@@ -12,6 +12,8 @@
 <p align="center"><b>Know whether your dataset is worth training on — before you waste compute.</b></p>
 
 ---
+🌐 Live Demo
+🔗 [automl-debugger](https://jzpahqig75a375i8ycpiy2.streamlit.app/)
 
 ## 🆕 v2.0 Advancements
 
